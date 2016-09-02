@@ -1,0 +1,16 @@
+{
+  "name": "ionicLocalStorage",
+  "homepage": "https://github.com/null-none/ionicLocalStorage",
+  "authors": [
+    "Dmitry <dmitry.kalinin.email@gmail.com>"
+  ],
+  "description": "Localstorage for ionic",
+  "main": "ionicLocalStorage.js",
+  "keywords": [
+    "ionic",
+    "localstorage",
+    "easy"
+  ],
+  "license": "MIT",
+  "private": true
+}
