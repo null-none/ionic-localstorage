@@ -11,7 +11,7 @@ bower install ionic-localstorage
 
 ```html
 ...
-  <script src="lib/ionicLocalStorage/ionicLocalStorage.js"></script>
+  <script src="lib/ionic-localstorage/ionicLocalStorage.js"></script>
 ...
 
 ```
