@@ -1,0 +1,29 @@
+# ionicLocalStorage
+Local storage for ionic 1
+
+## Install
+
+```bash
+bower install ionicLocalStorage
+```
+
+## Example
+
+```html
+...
+  <script src="lib/ionicLocalStorage/ionicLocalStorage.js"></script>
+...
+
+```
+
+```js
+angular.module('app', ['ionic', 'ionicLocalStorage'])
+
+.controller('abstractCtrl', function($scope, $ionicLocalStoragenService) {
+  $ionicLocalStoragenService.set('var', 'test');
+});
+
+```
+
+## License 
+MIT
