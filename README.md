@@ -4,7 +4,7 @@ Local storage for ionic 1
 ## Install
 
 ```bash
-bower install ionic-local-storage
+bower install ionic-localstorage
 ```
 
 ## Example
