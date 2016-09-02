@@ -6,11 +6,12 @@
   ],
   "description": "Localstorage for ionic",
   "main": "ionicLocalStorage.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "ionic",
     "localstorage",
-    "easy"
+    "easy",
+    "local storage"
   ],
   "license": "MIT",
   "private": false
