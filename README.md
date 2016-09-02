@@ -19,8 +19,8 @@ bower install ionic-localstorage
 ```js
 angular.module('app', ['ionic', 'ionicLocalStorage'])
 
-.controller('abstractCtrl', function($scope, $ionicLocalStoragenService) {
-  $ionicLocalStoragenService.set('var', 'test');
+.controller('abstractCtrl', function($scope, ionicLocalStoragenService) {
+  ionicLocalStoragenService.set('var', 'test');
 });
 
 ```
