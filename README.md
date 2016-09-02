@@ -4,7 +4,7 @@ Local storage for ionic 1
 ## Install
 
 ```bash
-bower install ionicLocalStorage
+bower install ionic-local-storage
 ```
 
 ## Example
@@ -25,5 +25,5 @@ angular.module('app', ['ionic', 'ionicLocalStorage'])
 
 ```
 
-## License 
+## License
 MIT
