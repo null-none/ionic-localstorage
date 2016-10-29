@@ -1,12 +1,12 @@
 {
   "name": "ionic-localstorage",
-  "homepage": "https://github.com/null-none/ionicLocalStorage",
+  "homepage": "https://github.com/null-none/ionic-localstorage",
   "authors": [
     "Dmitry <dmitry.kalinin.email@gmail.com>"
   ],
   "description": "Localstorage for ionic",
   "main": "ionicLocalStorage.js",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "keywords": [
     "ionic",
     "localstorage",
